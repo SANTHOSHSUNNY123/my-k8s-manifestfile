@@ -20,6 +20,6 @@ spec:
    spec:
      containers:
      - name: spring-container
-       image: pishkekarsanthosh/myaddressbook:86
+       image: pishkekarsanthosh/myaddressbook:87
        ports:
        - containerPort: 8084
